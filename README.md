@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ömer</h1>
+<h1 align="center">Hi 👋, I'm Ömer aka Ayato</h1>
 <h3 align="center">A software engineering & ethical hacking student from Turkey</h3>
 
 - 🌱 I’m currently learning **kali linux, python**

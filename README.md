@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ayaato.github.io/](https://ayaato.github.io/)
 
-- ⚡ Fun fact **god is real.**
+- ⚡ Fun fact **31**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

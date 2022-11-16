@@ -7,6 +7,10 @@
 
 - 📫 How to reach me **omeeraslan@hotmail.com**
 
+- 👨‍💻 All of my projects are available at [https://ayaato.github.io/](https://ayaato.github.io/)
+
+- ⚡ Fun fact **sey ne yazacamı bulamadimda**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ayaato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ayaato" height="30" width="40" /></a>

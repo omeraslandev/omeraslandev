@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ayaato.github.io/](https://ayaato.github.io/)
 
-- ⚡ Fun fact **sey ne yazacamı bulamadimda**
+- ⚡ Fun fact **married**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

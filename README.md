@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer aka Ayato</h1>
-<h3 align="center">A software engineering student from Turkey</h3>
+<h3 align="center">A software engineering student from Turkey 🇹🇷🇦🇿 </h3>
 
 - 🌱 I’m currently learning : **kali linux, python**
 

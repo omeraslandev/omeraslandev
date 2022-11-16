@@ -26,4 +26,4 @@
 
 <a href="https://www.youtube.com/channel/UCwccqyvDr70PslgcUjXnQcw"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/6wzajvw3odyrjyyls1aakbxrj)

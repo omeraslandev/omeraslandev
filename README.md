@@ -10,7 +10,10 @@
 - 👨‍💻 All of my projects are available at [https://ayaato.github.io/](https://ayaato.github.io/)
 
 <h3 align="left">Connect with me:</h3>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/965963899612573748?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/965963899612573748)
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/965963899612573748?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)
+(https://discord.com/users/965963899612573748)
+
 <p align="left">
 <a href="https://dev.to/ayaato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ayaato" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17063542" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17063542" height="30" width="40" /></a>

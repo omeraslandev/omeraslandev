@@ -13,5 +13,5 @@
 <ul>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="width:50px;height: 50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" style="width:50px;height: 50px" />
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" style="width:50px;height: 50px"> />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" style="width:50px;height: 50px"> />
 </ul>

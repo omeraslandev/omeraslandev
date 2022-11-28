@@ -10,6 +10,8 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-![Python]("https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg")
+<ul>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="width:50px;height: 50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" style="width:50px;height: 50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="width:50px;height: 50px" />
+</ul>

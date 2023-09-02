@@ -24,7 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaato&show_icons=true&locale=en&layout=compact" alt="ayaato" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaato&show_icons=true&locale=en" alt="ayaato" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaato&" alt="ayaato" /></p>
-
-<a href="https://discord.com/users/965963899612573748"><img src="https://lanyard-profile-readme.vercel.app/api/965963899612573748?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px"></a>

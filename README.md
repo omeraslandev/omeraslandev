@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omeraslandev&label=Profile%20views&color=0e75b6&style=flat" alt="omeraslandev" /> </p>
 
-- 🌱 I’m currently focusing **#YKS**
+- 🌱 I’m currently focusing **#YKS2025**
 
 - 📫 How to reach me **omeeraslan@hotmail.com**
 

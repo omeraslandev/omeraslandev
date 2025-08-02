@@ -9,12 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/omeraslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="omeraslan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/omeraslandev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ömer-aslan-539166266/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17063542" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17063542" height="30" width="40" /></a>
-<a href="https://kaggle.com/aslanomer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aslanomer" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@omeraslandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="omeraslandev" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aslanomer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aslanomer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer Aslan</h1>
-<h3 align="center">I'm a Python Developer and Comp. Prog. Student!</h3>
+<h3 align="center">I'm a Embedded Systems Developer and Comp. Prog. Student!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omeraslandev&label=Profile%20views&color=0e75b6&style=flat" alt="omeraslandev" /> </p>
 

@@ -4,7 +4,7 @@ Developing is beautiful. Im trying to learn Rust in these days.
 |-----|------|
 
 *Pre-License courses:*
-- **[iuc-computerprogramming](https://github.com/omeraslandev/iuc-computerprogramming)**:  Practising all programming lessons on my IUC computer programming degree.
+- **[iuc-computerprogramming](https://github.com/omeraslandev/iuc-computerprogramming)**:  Practising all programming course on my IUC computer programming degree.
 
 *Highschool projects:*
 

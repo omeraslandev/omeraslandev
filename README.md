@@ -3,6 +3,9 @@ Developing is beautiful. Im trying to learn Rust in these days.
 |![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omeraslandev&theme=discord_old_blurple)‎‎‎‎‎‎‎‏‎‏‎‏‎|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omeraslandev&theme=discord_old_blurple)|
 |-----|------|
 
+*Pre-License lessons:*
+- **[iuc-computerprogramming](https://github.com/omeraslandev/iuc-computerprogramming)**:  Recording all programming lessons on my pre-license degree.
+
 *Highschool projects:*
 
 - **[whatsapp-pfp](https://github.com/omeraslandev/whatsapp-pfp-automation)**:  24/7 automatic whatsapp profile picture changing bot.

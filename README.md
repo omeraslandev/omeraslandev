@@ -3,8 +3,8 @@ Developing is beautiful. Im trying to learn Rust in these days.
 |![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omeraslandev&theme=discord_old_blurple)‎‎‎‎‎‎‎‏‎‏‎‏‎|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omeraslandev&theme=discord_old_blurple)|
 |-----|------|
 
-*Pre-License lessons:*
-- **[iuc-computerprogramming](https://github.com/omeraslandev/iuc-computerprogramming)**:  Recording all programming lessons on my pre-license degree.
+*Pre-License courses:*
+- **[iuc-computerprogramming](https://github.com/omeraslandev/iuc-computerprogramming)**:  Practising all programming lessons on my IUC computer programming degree.
 
 *Highschool projects:*
 

@@ -13,5 +13,5 @@ Developing is beautiful. Im trying to learn Rust in these days.
 - **[accounting-automation](https://github.com/omeraslandev/accounting-automation)**:  C# desktop application containing product and customer management operations. 
 - **[internship-contributions](https://github.com/omeraslandev/my-internship-projects)**:  My internship assignment includes Web application and Python GUI application at Salcomp.
 - **[house-advert-scrapping](https://github.com/omeraslandev/hepsiemlak-advert-scrapping)**:  My web scraping application that extracts the title deeds and prices of houses from HepsiEmlak.com.
-- **[ebook-viewer](https://github.com/omeraslandev/ebook-viewer-site-wtih-shopierapi)**:   Allowing shopier customers to purchase or read books online by logging in with email authentication.
+- **[ebook-viewer](https://github.com/omeraslandev/ebook-viewer-site-wtih-shopierapi)**:   Allowing Shopier customers to read books online by logging in with email authentication.
 

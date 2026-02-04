@@ -7,4 +7,4 @@ Developing is beautiful. I love learning Rust programming language.
 
 Old projects: 
 
-- **[whatsapp-pfp]([https://github.com/psf/requests](https://github.com/omeraslandev/whatsapp-pfp-automation))**:  24/7 automatic whatsapp profile picture changing bot.
+- **[whatsapp-pfp](https://github.com/omeraslandev/whatsapp-pfp-automation)**:  24/7 automatic whatsapp profile picture changing bot.

@@ -11,7 +11,7 @@ Developing is beautiful. Im trying to learn Rust in these days.
 - **[whatsapp-pfp](https://github.com/omeraslandev/whatsapp-pfp)**:  24/7 automatic whatsapp profile picture changing bot.
 - **[grayscale-extension](https://github.com/omeraslandev/grayscale-extension)**:  Makes all chrome pages grayscale with a single click.
 - **[library-management-automation](https://github.com/omeraslandev/library-management-automation)**:  C# desktop application that provides library management.
-- **[atm-automation](https://github.com/omeraslandev/atm-automation)**:  A C# term project similar to a mini ATM.
+- **[bank-automation](https://github.com/omeraslandev/bank-automation)**:  A C# term project similar to a ATM.
 - **[pizza-ordering-automation](https://github.com/omeraslandev/pizza-ordering-automation)**:  C# desktop application that allows pizza shop management.
 - **[accounting-automation](https://github.com/omeraslandev/accounting-automation)**:  C# desktop application containing product and customer management operations. 
 - **[internship-contributions](https://github.com/omeraslandev/internship-contributions)**:  My internship assignment includes Web application and Python GUI application at Salcomp.

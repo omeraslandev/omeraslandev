@@ -3,10 +3,10 @@ Developing is beautiful. Im trying to learn Rust in these days.
 |![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omeraslandev&theme=discord_old_blurple)‎‎‎‎‎‎‎‏‎‏‎‏‎|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omeraslandev&theme=discord_old_blurple)|
 |-----|------|
 
-*Pre-License courses:*
+*Associate degree courses:*
 - **[iuc-computerprogramming](https://github.com/omeraslandev/iuc-computerprogramming)**:  Practising all programming course on my IUC computer programming degree.
 
-*Highschool projects:*
+*High school projects:*
 
 - **[whatsapp-pfp](https://github.com/omeraslandev/whatsapp-pfp-automation)**:  24/7 automatic whatsapp profile picture changing bot.
 - **[grayscale-extension](https://github.com/omeraslandev/grayscale-chrome-extension)**:  Makes all chrome pages grayscale with a single click.

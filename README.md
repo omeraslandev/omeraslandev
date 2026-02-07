@@ -15,6 +15,6 @@ Developing is beautiful. Im trying to learn Rust in these days.
 - **[pizza-ordering-automation](https://github.com/omeraslandev/pizza-ordering-automation)**:  C# desktop application that allows pizza shop management.
 - **[accounting-automation](https://github.com/omeraslandev/accounting-automation)**:  C# desktop application containing product and customer management operations. 
 - **[internship-contributions](https://github.com/omeraslandev/internship-contributions)**:  My internship assignment includes Web application and Python GUI application at Salcomp.
-- **[house-advert-scrapping](https://github.com/omeraslandev/house-advert-scrapping)**:  My web scraping application that extracts the title deeds and prices of houses from HepsiEmlak.com.
+- **[house-advert-scrapping](https://github.com/omeraslandev/house-advert-scrapping)**:  My web scraping application that extracts the title deeds and prices of houses.
 - **[ebook-viewer](https://github.com/omeraslandev/ebook-viewer)**:   Allowing Shopier customers to read books online by logging in with email authentication.
 

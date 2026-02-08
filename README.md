@@ -3,7 +3,7 @@ Developing is beautiful. Im trying to learn Rust in these days.
 |![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omeraslandev&theme=discord_old_blurple)‎‎‎‎‎‎‎‏‎‏‎‏‎|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omeraslandev&theme=discord_old_blurple)|
 |-----|------|
 
-* Working on it for now:*
+*Working on it for now:*
 - **[adam-v01-search-rescue-platform](https://github.com/omeraslandev/adam-v01-search-rescue-platform)**: An autonomous robotic solution for post-disaster environments where networks fail. By fusing Thermal, ToF, and Acoustic sensors on a high-efficiency STM32 platform, this unit acts as the "forward eye" for rescue teams, retrieving life-saving data during the critical "golden hours" without putting human responders at risk. 
 
 *Associate degree courses:*

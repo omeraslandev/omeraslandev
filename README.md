@@ -7,7 +7,7 @@ Developing is beautiful. Im trying to learn Embedded Systems in these days.
 - **[adam-v01-search-rescue-platform](https://github.com/omeraslandev/adam-v01-search-rescue-platform)**: An autonomous robotic solution for post-disaster environments where networks fail. By fusing Thermal, ToF, and Acoustic sensors on a high-efficiency STM32 platform, this unit acts as the "forward eye" for rescue teams, retrieving life-saving data during the critical "golden hours" without putting human responders at risk. 
 
 *Associate degree courses:*
-- **[iuc-computerprogramming](https://github.com/omeraslandev/iuc-computerprogramming)**:  Practising all programming course on my IUC computer programming degree.
+- **[iuc-computerprogramming](https://github.com/omeraslandev/iuc-computerprogramming)**:  Practising all programming course on my IU-Cerrahpaşa computer programming degree.
 - **[techno-legal-system](https://github.com/omeraslandev/techno-legal-system)**: A system integrating CV/IoT/VR to mitigate workplace accidents and macroeconomic losses in Turkiye.
 
 *High school projects:*

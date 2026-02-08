@@ -8,13 +8,13 @@ Developing is beautiful. Im trying to learn Rust in these days.
 
 *High school projects:*
 
-- **[whatsapp-pfp](https://github.com/omeraslandev/whatsapp-pfp)**:  24/7 automatic whatsapp profile picture changing bot.
-- **[grayscale-extension](https://github.com/omeraslandev/grayscale-extension)**:  Makes all chrome pages grayscale with a single click.
-- **[library-management-automation](https://github.com/omeraslandev/library-management-automation)**:  C# desktop application that provides library management.
-- **[bank-automation](https://github.com/omeraslandev/bank-automation)**:  A C# term project similar to a ATM.
-- **[pizza-ordering-automation](https://github.com/omeraslandev/pizza-ordering-automation)**:  C# desktop application that allows pizza shop management.
-- **[accounting-automation](https://github.com/omeraslandev/accounting-automation)**:  C# desktop application containing product and customer management operations. 
+- **[digital-identity-automation-bot](https://github.com/omeraslandev/whatsapp-pfp)**:  24/7 automatic whatsapp profile picture changing bot.
+- **[chrome-focus-signal-attenuator](https://github.com/omeraslandev/grayscale-extension)**:  Makes all chrome pages grayscale with a single click.
+- **[physical-asset-lifecycle-tracker](https://github.com/omeraslandev/library-management-automation)**:  C# desktop application that provides library management.
+- **[secure-banking-transaction-protocol](https://github.com/omeraslandev/bank-automation)**:  A C# term project similar to a ATM.
+- **[e2e-service-operations-orchestrator](https://github.com/omeraslandev/pizza-ordering-automation)**:  C# desktop application that allows pizza shop management.
+- **[enterprise-inventory-management-system](https://github.com/omeraslandev/accounting-automation)**:  C# desktop application containing product and customer management operations. 
 - **[internship-contributions](https://github.com/omeraslandev/internship-contributions)**:  My internship assignment includes Web application and Python GUI application at Salcomp.
-- **[house-advert-scrapping](https://github.com/omeraslandev/house-advert-scrapping)**:  My web scraping application that extracts the title deeds and prices of houses.
-- **[ebook-viewer](https://github.com/omeraslandev/ebook-viewer)**:   Allowing Shopier customers to read books online by logging in with email authentication.
+- **[realtime-realestate-market-analyzer](https://github.com/omeraslandev/house-advert-scrapping)**:  My web scraping application that extracts the title deeds and prices of houses.
+- **[autonomous-digital-fulfillment-bridge](https://github.com/omeraslandev/ebook-viewer)**:   Allowing Shopier customers to read books online by logging in with email authentication.
 

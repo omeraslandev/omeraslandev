@@ -13,7 +13,7 @@ Developing is beautiful. Im trying to learn Rust in these days.
 - **[physical-asset-lifecycle-tracker](https://github.com/omeraslandev/library-management-automation)**:  C# desktop application that provides library management.
 - **[secure-banking-transaction-protocol](https://github.com/omeraslandev/bank-automation)**:  A C# term project similar to a ATM.
 - **[e2e-service-operations-orchestrator](https://github.com/omeraslandev/pizza-ordering-automation)**:  C# desktop application that allows pizza shop management.
-- **[enterprise-inventory-management-system](https://github.com/omeraslandev/accounting-automation)**:  C# desktop application containing product and customer management operations. 
+- **[enterprise-inventory-management-system](https://github.com/omeraslandev/accounting-automation)**:  C# desktop application containing product management operations. 
 - **[internship-contributions](https://github.com/omeraslandev/internship-contributions)**:  My internship assignment includes Web application and Python GUI application at Salcomp.
 - **[realtime-realestate-market-analyzer](https://github.com/omeraslandev/house-advert-scrapping)**:  My web scraping application that extracts the title deeds and prices of houses.
 - **[autonomous-digital-fulfillment-bridge](https://github.com/omeraslandev/ebook-viewer)**:   Allowing Shopier customers to read books online by logging in with email authentication.

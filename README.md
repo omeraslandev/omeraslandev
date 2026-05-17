@@ -1,4 +1,4 @@
-Cybersecurity is beautiful. Im trying to learn Linux/Networking in these days.
+Developing is beautiful. Im trying to learn Linux/Networking in these days.
 
 |![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omeraslandev&theme=discord_old_blurple)‎‎‎‎‎‎‎‏‎‏‎‏‎|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omeraslandev&theme=discord_old_blurple)|
 |-----|------|

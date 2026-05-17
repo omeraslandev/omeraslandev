@@ -1,10 +1,11 @@
-Developing is beautiful. Im trying to learn Embedded Systems in these days.
+Developing is beautiful. Im trying to learn Cybersecurity in these days.
 
 |![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omeraslandev&theme=discord_old_blurple)‎‎‎‎‎‎‎‏‎‏‎‏‎|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omeraslandev&theme=discord_old_blurple)|
 |-----|------|
 
 *I am currently working on:*
-- **[adam-v01-search-rescue-platform](https://github.com/omeraslandev/adam-v01-search-rescue-platform)**: An autonomous robotic solution for post-disaster environments where networks fail. By fusing Thermal, ToF, and Acoustic sensors on a high-efficiency STM32 platform, this unit acts as the "forward eye" for rescue teams, retrieving life-saving data during the critical "golden hours" without putting human responders at risk. 
+- LabEx - Quick Start with Linux
+- TryHackMe - Introducy to Networking
 
 *Associate degree courses:*
 - **[iuc-computerprogramming](https://github.com/omeraslandev/iuc-computerprogramming)**:  Practising all programming course on my IU-Cerrahpaşa Computer Programming degree.

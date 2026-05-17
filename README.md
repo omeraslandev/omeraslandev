@@ -1,11 +1,10 @@
-Developing is beautiful. Im trying to learn Linux/Networking in these days.
+Developing is beautiful. Im trying to learn Linux in these days.
 
 |![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omeraslandev&theme=discord_old_blurple)‎‎‎‎‎‎‎‏‎‏‎‏‎|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omeraslandev&theme=discord_old_blurple)|
 |-----|------|
 
 *I am currently studying on:*
 - `LabEx` - `Quick Start with Linux`
-- `TryHackMe` - `Introducy to Networking`
 
 *Associate degree courses:*
 - **[iuc-computerprogramming](https://github.com/omeraslandev/iuc-computerprogramming)**:  Practising all programming course on my IU-Cerrahpaşa Computer Programming degree.

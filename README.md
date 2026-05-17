@@ -9,7 +9,6 @@ Developing is beautiful. Im trying to learn Cybersecurity in these days.
 
 *Associate degree courses:*
 - **[iuc-computerprogramming](https://github.com/omeraslandev/iuc-computerprogramming)**:  Practising all programming course on my IU-Cerrahpaşa Computer Programming degree.
-- **[techno-legal-system](https://github.com/omeraslandev/techno-legal-system)**: A system integrating CV/IoT/VR to mitigate workplace accidents and macroeconomic losses in Turkiye.
 
 *High school projects:*
 

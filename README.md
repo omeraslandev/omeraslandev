@@ -4,8 +4,8 @@ Developing is beautiful. Im trying to learn Cybersecurity in these days.
 |-----|------|
 
 *I am currently working on:*
-- LabEx - Quick Start with Linux
-- TryHackMe - Introducy to Networking
+- LabEx - `Quick Start with Linux`
+- TryHackMe - `Introducy to Networking`
 
 *Associate degree courses:*
 - **[iuc-computerprogramming](https://github.com/omeraslandev/iuc-computerprogramming)**:  Practising all programming course on my IU-Cerrahpaşa Computer Programming degree.

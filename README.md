@@ -23,5 +23,5 @@ Developing is beautiful. I'm learning Linux these days.
 - **[enterprise-inventory-management-system](https://github.com/omeraslandev/enterprise-inventory-management-system)**:  C# desktop application containing product management operations. 
 - **[internship-contributions](https://github.com/omeraslandev/internship-contributions)**:  My internship assignment includes Web application and Python GUI application at Salcomp.
 - **[realtime-realestate-market-analyzer](https://github.com/omeraslandev/realtime-realestate-market-analyzer)**:  My web scraping application that extracts the title deeds and prices of houses.
-- **[autonomous-digital-fulfillment-bridge](https://github.com/omeraslandev/autonomous-digital-fulfillment-bridge)**:   Allowing Shopier customers to read books online by logging in with email authentication.
+- **[autonomous-digital-fulfillment-bridge](https://github.com/omeraslandev/autonomous-digital-fulfillment-bridge)**:   Allowing Shopier customers to read books by logging in with email authentication.
 

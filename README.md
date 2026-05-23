@@ -2,7 +2,7 @@ Developing is beautiful. I'm learning Linux these days.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=omeraslandev&theme=violet-dark&hide_border=true)](https://git.io/streak-stats)
 
-![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omeraslandev&theme=violet-dark)‎‎‎‎‎‎‎‏‎‏‎‏‎ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omeraslandev&theme=violet-dark)
+![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omeraslandev&theme=violet_dark)‎‎‎‎‎‎‎‏‎‏‎‏‎ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omeraslandev&theme=violet_dark)
 
 *Currently working through:*
 - `Tryhackme` - `Linux Fundamentals`

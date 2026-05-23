@@ -4,7 +4,7 @@ Developing is beautiful. I'm learning Linux these days.
 |-----|------|
 
 *Currently working through:*
-- `LabEx` - `Quick Start with Linux`
+- `Tryhackme` - `Linux Fundamentals`
 
 *Associate degree courses:*
 - **[iuc-computerprogramming](https://github.com/omeraslandev/iuc-computerprogramming)**:  Practising all programming course on my IU-Cerrahpaşa Computer Programming degree.

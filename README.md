@@ -9,6 +9,11 @@ Developing is beautiful. I'm learning Linux these days.
 *Associate degree courses:*
 - **[iuc-computerprogramming](https://github.com/omeraslandev/iuc-computerprogramming)**:  Practising all programming course on my IU-Cerrahpaşa Computer Programming degree.
 
+*Mini-tools:*
+- **[keyboard](https://omeraslan.dev/keyboard)**:  10 finger keyboard challenge with cyber security & technology terms!
+- **[password](https://omeraslan.dev/password)**:  Strong password generator with dynamic interface.
+
+
 *High school projects:*
 
 - **[digital-identity-automation-bot](https://github.com/omeraslandev/digital-identity-automation-bot)**:  24/7 automatic whatsapp profile picture changing bot.

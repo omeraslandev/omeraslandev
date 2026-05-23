@@ -1,7 +1,5 @@
-Developing is beautiful. I'm learning Linux these days.
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=omeraslandev&theme=discord-old-blurple&hide_border=true)](https://git.io/streak-stats)
-
+Developing is beautiful. I'm learning Linux these days.
 ![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omeraslandev&theme=discord_old_blurple)‎‎‎‎‎‎‎‏‎‏‎‏‎ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omeraslandev&theme=discord_old_blurple)
 
 *Currently working through:*

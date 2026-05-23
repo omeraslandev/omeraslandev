@@ -1,7 +1,6 @@
 Developing is beautiful. I'm learning Linux these days.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omeraslandev&theme=ocean_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omeraslandev&theme=ocean_dark&utcOffset=8) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omeraslandev&theme=ocean_dark)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omeraslandev&theme=ocean_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omeraslandev&theme=ocean_dark)
 
 *Currently working through:*
 - `Tryhackme` - `Linux Fundamentals`

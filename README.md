@@ -6,7 +6,7 @@ Developing is beautiful. I'm learning Linux these days.
 *Currently working through:*
 - `Tryhackme` - `Linux Fundamentals`
 
-*Associate degree courses:*
+*Associate degree leadership:*
 - **[iuc-computerprogramming](https://github.com/omeraslandev/iuc-computerprogramming)**:  Practising all programming course on my IU-Cerrahpaşa Computer Programming degree.
 
 *Mini-tools:*

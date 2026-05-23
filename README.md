@@ -1,6 +1,6 @@
 Developing is beautiful. I'm learning Linux these days.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=omeraslandev&theme=ocean-dark&hide_border=true)](https://git.io/streak-stats) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omeraslandev&theme=ocean_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omeraslandev&theme=ocean_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omeraslandev&theme=ocean_dark)
 
 
 *Currently working through:*

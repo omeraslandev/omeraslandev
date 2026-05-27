@@ -3,7 +3,7 @@ Developing is beautiful. I'm learning Linux these days.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omeraslandev&theme=ocean_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omeraslandev&theme=ocean_dark)
 
 *Currently working through:*
-- `Tryhackme` - `Linux Fundamentals`
+- `Linux Fundamentals`
 
 *Associate degree leadership:*
 - **[iuc-computerprogramming](https://github.com/omeraslandev/iuc-computerprogramming)**:  Practising all programming course on my IU-Cerrahpaşa Computer Programming degree.

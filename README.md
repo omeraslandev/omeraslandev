@@ -5,6 +5,9 @@ Developing is beautiful. I'm learning STM32 these days.
 *Currently working through:*
 - `STM32`
 
+*Embedded systems documentations:*
+- **[embedded-diary](https://github.com/omeraslandev/embedded-diary)**:  My embedded systems learning diary.
+
 *Associate degree leadership:*
 - **[iuc-computerprogramming](https://github.com/omeraslandev/iuc-computerprogramming)**:  Practising all programming course on my IU-Cerrahpaşa Computer Programming degree.
 

@@ -11,7 +11,7 @@ Developing is beautiful. I'm studying `Data Structures & Algorithms` these days.
 *Associate degree leadership:*
 - **[iuc-computerprogramming](https://github.com/omeraslandev/iuc-computerprogramming)**:  Practising all programming course on my IU-Cerrahpaşa Computer Programming degree.
 
-*Mini-tools:*
+*Mini-tools (click!):*
 - **[keyboard](https://omeraslan.dev/keyboard)**:  10 finger keyboard challenge with cyber security & technology terms!
 - **[password](https://omeraslan.dev/password)**:  Strong password generator with dynamic interface.
 

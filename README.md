@@ -1,9 +1,9 @@
-Developing is beautiful. I'm learning STM32 these days.
+Developing is beautiful. I'm studying `Data Structures & Algorithms` these days.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omeraslandev&theme=ocean_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omeraslandev&theme=ocean_dark)
 
 *Currently working through:*
-- `STM32`
+- `DSA`
 
 *Embedded systems documentations:*
 - **[embedded-diary](https://github.com/omeraslandev/embedded-diary)**:  My embedded systems learning diary.

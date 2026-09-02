@@ -1,4 +1,4 @@
-Developing is beautiful. I'm intern this days.
+Developing is beautiful.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omeraslandev&theme=ocean_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omeraslandev&theme=ocean_dark)
 

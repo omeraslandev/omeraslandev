@@ -5,10 +5,6 @@ Developing is beautiful.
 *Associate degree leadership:*
 - **[iuc-computerprogramming](https://github.com/omeraslandev/iuc-computerprogramming)**:  Practising all programming course on my IU-Cerrahpaşa Computer Programming degree.
 
-*Mini-tools (click!):*
-- **[password](https://omeraslan.dev/password)**:  Strong password generator with dynamic interface.
-
-
 *High school projects:*
 
 - **[digital-identity-automation-bot](https://github.com/omeraslandev/digital-identity-automation-bot)**:  24/7 automatic whatsapp profile picture changing bot.

@@ -1,6 +1,9 @@
 Developing is beautiful.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=omeraslandev&theme=ocean_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omeraslandev&theme=ocean_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omeraslandev&theme=ocean_dark&show_icons=true" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeraslandev&hide=css&layout=compact&theme=ocean_dark" alt="Top Languages" width="48%" />
+</p>
 
 *Associate degree leadership:*
 - **[iuc-computerprogramming](https://github.com/omeraslandev/iuc-computerprogramming)**:  Practising all programming course on my IU-Cerrahpaşa Computer Programming degree.

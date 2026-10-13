@@ -1,8 +1,8 @@
 Developing is beautiful.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omeraslandev&theme=ocean_dark&show_icons=true" alt="Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeraslandev&hide=css,html,javascript&layout=compact&theme=ocean_dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omeraslandev&theme=ocean_dark&show_icons=true" alt="Stats" height="192" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeraslandev&hide=css,html,javascript&theme=ocean_dark" alt="Top Languages" height="192" />
 </p>
 
 *Associate degree leadership:*

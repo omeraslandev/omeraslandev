@@ -1,4 +1,4 @@
-# ⚡ Ömer Faruk ASLAN — DevSecOps & Systems Security Portfolio
+# ⚡ Ömer Faruk ASLAN — DevSecOps & Systems Security
 
 > DevSecOps, Linux Systems Hardening, Shell Automation, and Secure Software Architecture portfolio. Focused on bridging code development with operational security and automated workflows.
 

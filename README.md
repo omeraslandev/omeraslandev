@@ -1,4 +1,4 @@
-Linux is beautiful. DevSecOps is beautiful.
+DevSecOps is beautiful.
 
 ---
 

@@ -1,4 +1,4 @@
-# ⚡ [Adınız Soyadınız] — Software Engineering & Systems Portfolio
+# ⚡ Ömer Faruk ASLAN — Software Engineering & Systems Portfolio
 
 > UNIX felsefesi, sistem mimarileri, otomasyon araçları, robotiğe giriş ve tam yığın (full-stack) yazılım geliştirme projelerimin toplandığı açık kaynak portfolyo indeksi.
 

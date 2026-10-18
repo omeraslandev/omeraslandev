@@ -4,7 +4,7 @@
 
 ### 🚀 Systems, Security & Automation
 
-* 🔒 **[linux-behavioral-timeboxing-sandbox](https://github.com/omeraslandev/linux-behavioral-timeboxing-sandbox)** — Two-phase Linux sandboxing enforcing access control via PATH wrappers & cron.
+* 🔒 **[linux-behavioral-timeboxing-sandbox](https://github.com/omeraslandev/linux-behavioral-timeboxing-sandbox):** Two-phase Linux sandboxing enforcing access control via PATH wrappers & cron.
 * 📱 **[android-adb-debloat-hardening](https://github.com/omeraslandev/android-adb-debloat-hardening)** — Non-root ADB script for telemetry removal and system debloating.
 * 🎬 **[zsh-sovereign-youtube](https://github.com/omeraslandev/zsh-sovereign-youtube)** — Terminal YouTube client with Zsh hook-based command history isolation.
 * 🤖 **[ros2-jazzy-gazebo-harmonic-guide](https://github.com/omeraslandev/ros2-jazzy-gazebo-harmonic-guide)** — ROS2 Jazzy & Gazebo Harmonic environment setup & troubleshooting guide.

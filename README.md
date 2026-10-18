@@ -15,7 +15,6 @@ DevSecOps is beautiful.
 
 * **[autonomous-digital-fulfillment-bridge](https://github.com/omeraslandev/autonomous-digital-fulfillment-bridge):** Digital delivery bridge via email authentication.
 * **[realtime-realestate-market-analyzer](https://github.com/omeraslandev/realtime-realestate-market-analyzer):** Real estate market scraper and data analyzer.
-* **[digital-identity-automation-bot](https://github.com/omeraslandev/digital-identity-automation-bot):** Automated 24/7 WhatsApp profile picture updater.
 * **[chrome-focus-signal-attenuator](https://github.com/omeraslandev/chrome-focus-signal-attenuator):** One-click grayscale extension for distraction-free browsing.
 * **[internship-contributions](https://github.com/omeraslandev/internship-contributions):** Web & Python GUI tools developed at Salcomp.
 

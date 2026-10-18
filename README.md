@@ -1,5 +1,4 @@
-# ⚡ Ömer Faruk ASLAN
-## DevSecOps & Linux Systems
+# Hi, Im Omer.
 
 > Aspiring **DevSecOps Engineer** with a strong foundation in Linux System Hardening, Shell Automation, Process Security, and Full-Stack Development.
 

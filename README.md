@@ -1,4 +1,4 @@
-> **DevSecOps & Linux Systems** — Building lightweight tools, system hardening, and shell automation.
+**DevSecOps & Linux Systems** - Building lightweight tools, system hardening, and shell automation.
 
 ---
 

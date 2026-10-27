@@ -22,7 +22,7 @@ DevSecOps is beautiful.
 
 ### 💻 Academic & Software Engineering
 
-* **[iuc-computerprogramming](https://github.com/omeraslandev/iuc-computerprogramming):** Code repositories & study notes for IU-Cerrahpaşa.
+* **[iuc-computerprogramming](https://github.com/omeraslandev/iuc-computerprogramming):** Code repositories & study notes for IU-Cerrahpaşa. *(private for a while)*
 * **[enterprise-inventory-management-system](https://github.com/omeraslandev/enterprise-inventory-management-system):** C# enterprise inventory tracking system.
 * **[e2e-service-operations-orchestrator](https://github.com/omeraslandev/e2e-service-operations-orchestrator):** End-to-end pizzeria operations desktop app.
 * **[secure-banking-transaction-protocol](https://github.com/omeraslandev/secure-banking-transaction-protocol):** C# ATM simulation & transaction protocol.
